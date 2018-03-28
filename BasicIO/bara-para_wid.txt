@@ -1,0 +1,9 @@
+Schreibe ein Programm, das folgende Schritte durchläuft:
+* Der Benutzer soll 2 Widerstandswerte eingeben
+* berechne den Wert des Gesamtwiderstands, wenn die beiden Widerstände parallel geschaltet werden.
+* Gib den errechneten Gesamtwiderstand aus.
+
+Hinweise:
+* Achte auf den korrekten Datentyp für die Widerstandswerte.
+* Programmiere und teste ordentlich! Bedenke: Die Widerstandswerte dürfen auch beide 0 sein. Funktioniert Dein Programm dann korrekt?
+* Option: Erweiterung: Prüfe, ob die eingegebenen Widerstände korrekt sind und verlange eine erneute Eingabe, wenn das nicht der Fall ist.
